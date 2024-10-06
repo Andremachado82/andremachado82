@@ -1,8 +1,8 @@
 ## Olá! Eu sou o André Machado👋
 
-- 🔭 Atualmente trabalho como Desenvolvedor FullStack
-- 🌱 Estudando Java
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente trabalho como Desenvolvedor Java.
+- 🌱 Desenvolvedor Java | Estudande em Multicloud em AWS, Google Cloud, Microsoft Azure e Oracle Cloud Infrastructure.
+- 😄 Pronouns: ele/dele.
 
  <div>
   <a href="https://github.com/andremachado82">
